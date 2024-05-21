@@ -46,6 +46,8 @@ Gestionnaire --> G9
 @enduml
 ```
 
+![plantuml](plantuml.png).
+
 ### 2. Réalisez le diagramme de classes pour modéliser les éléments ci-dessus, en définissant les attributs et les méthodes (opérations) de chaque classe de ce diagramme, ainsi que les cardinalités des associations entre les classes.
 
 ```mermaid
